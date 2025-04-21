@@ -1,4 +1,5 @@
 # PAGE PARSE
+![image](https://github.com/user-attachments/assets/32b26883-05cd-42c2-9ac8-458fb0737884)
 
 This repository contains my personal English translations of various manga, manhwa, and comics that I read for my own enjoyment.
 
